@@ -28,7 +28,35 @@ header{
     font-size: 16px;
 }
 
-/* header css end  */
+/* =====================header css end ======================== */
+
+.my-failure{
+    display: flex;
+    gap: 35px;
+}
+.my-failure .img{
+    margin: 150px 0 150px 150px;
+}
+.failure-content{
+    margin-top: 500px;
+}
+.failure-content h2{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.failure-content p{
+    padding: 5px 0;
+    margin-bottom: 15px;
+    color: rgb(58, 56, 56);
+}
+.failure-content ul{
+    padding-left: 20px;
+    color: rgb(58, 56, 56);
+}
+
+/* ===================my failure css end================ */
+
 
 
 
